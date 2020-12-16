@@ -1,5 +1,5 @@
 .site-footer {
-    background: url(../../images/slider/engagement.jpg) no-repeat center center;
+    background: url(../../images/slider/engagement-3.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -57,7 +57,7 @@
 
 .site-footer h2 {
     font-size: 40px;
-    color: #eae8e8;
+    color: white;
     margin: 0 0 0.3em;
     display: inline-block;
     position: relative;
