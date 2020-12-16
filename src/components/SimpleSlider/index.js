@@ -10,13 +10,13 @@ class SimpleSlider extends Component {
     render() {
         const settings = {
             dots: false,
-            arrows: true,
             speed: 1200,
             slidesToShow: 1,
             slidesToScroll: 1,
-            autoplay: false,
+            autoplay: true,
             autoplaySpeed: 2500,
             fade: true,
+            arrows: false
         };
         return (
             <Slider {...settings}>
