@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+
 .header ul {
     list-style: none;
     display: flex;
@@ -8,8 +10,13 @@
     padding: 25px 15px 30px;
     position: relative;
 }
+
+.header h2{
+    font-weight: 600;
+    word-spacing: 3px;
+}
 .header {
-    background: #85aaba;
+    background-color: rgba(77,168,218,0.6);
     position: relative;
     width: 100%;
     z-index: 99;
@@ -30,6 +37,10 @@
 }
 .header-menu ul li {
     position: relative;
+    font-weight: 700;
+    font-family: 'BioRhyme';
+    word-spacing: 3px
+
 }
 
 .header-menu .submenu {
