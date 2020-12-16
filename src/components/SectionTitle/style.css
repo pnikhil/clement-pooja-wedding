@@ -10,7 +10,10 @@
     top: -80px;
     left: 50%;
     content: "";
-    background: url(../../images/section-title.png);
+    background-image: url(../../images/icon/clipart111165.png);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
     width: 100px;
     height: 80px;
     transform: translateX(-50%);
