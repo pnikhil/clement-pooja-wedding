@@ -1,10 +1,10 @@
 import React from "react"
 import SectionTitle from "../SectionTitle"
 import {WEDDING_DATE_FULL, PARTY_DATE_FULL} from "../../constants/headings"
-import event1 from "../../images/events/anthony-chapel.jpg"
-import event2 from "../../images/events/springdale-station-inside.jpg"
+import event1 from "../../images/events/fatima.png"
+import event2 from "../../images/events/ballroom.png"
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faInfoCircle, faLocationArrow} from '@fortawesome/free-solid-svg-icons'
+import {faInfoCircle, faLocationArrow, faCalendar, faCalendarAlt, faChurch, faHotel} from '@fortawesome/free-solid-svg-icons'
 
 import "./style.css"
 
@@ -27,12 +27,12 @@ const Events = () => {
                                             </div>
                                             <div className="col-lg-7 col-md-12 col-12">
                                                 <div className="event-text">
-                                                    <h3>Wedding Mass</h3>
+                                                    <h2>Wedding Mass</h2>
                                                     <span>
-                                                        {WEDDING_DATE_FULL}
+                                                        <FontAwesomeIcon icon={faCalendarAlt}></FontAwesomeIcon> {WEDDING_DATE_FULL}
                                                     </span>
                                                     <span>
-                                                        Our Lady of Fatima Church
+                                                        <FontAwesomeIcon icon={faChurch}></FontAwesomeIcon> <strong>Our Lady of Fatima Church</strong>
                                                         <br/>
                                                         Jalahalli, Bangalore
                                                     </span>
@@ -64,12 +64,12 @@ const Events = () => {
                                         <div className="row">
                                             <div className="col-lg-7 col-md-12 col-12">
                                                 <div className="event-text event-text-2">
-                                                    <h3>Reception</h3>
+                                                    <h2>Reception</h2>
                                                     <span>
-                                                        {PARTY_DATE_FULL}
+                                                       <FontAwesomeIcon icon={faCalendar}></FontAwesomeIcon> {PARTY_DATE_FULL}
                                                     </span>
                                                     <span>
-                                                        The Ballroom @ Gokulam Grand Hotel
+                                                        <FontAwesomeIcon icon={faHotel}></FontAwesomeIcon> <strong>The Ballroom @ Gokulam Grand Hotel</strong>
                                                         <br/>
                                                         Mathikere, Bangalore
                                                     </span>
