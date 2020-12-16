@@ -5,12 +5,9 @@ import Story from "../../components/Story"
 import Welcome from "../../components/Welcome"
 import WeddingParty from "../../components/WeddingParty"
 import Events from "../../components/Events"
-import Gallery from "../../components/Gallery"
-import Registry from "../../components/Registry"
 import Header from "../../components/Header"
 import MobileMenu from "../../components/MobileMenu"
 import CountdownWidget from "../../components/CountdownWidget"
-import SimpleReactLightbox from "simple-react-lightbox"
 
 const Home = () => {
     return (
@@ -18,16 +15,12 @@ const Home = () => {
             <Header />
             <MobileMenu />
             <SimpleSlider />
-            <CountDownWidget />
+            <CountdownWidget />
             <Us />
             <Welcome />
             <Story />
             <WeddingParty />
             <Events />
-            <SimpleReactLightbox>
-                <Gallery />
-            </SimpleReactLightbox>
-            <Registry />
         </div>
     )
 }
