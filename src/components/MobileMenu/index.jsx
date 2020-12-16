@@ -1,6 +1,8 @@
 import React, {Component} from "react"
 import AnchorLink from "react-anchor-link-smooth-scroll"
 import {NAME_SHORT} from "../../constants/headings"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faBars} from '@fortawesome/free-solid-svg-icons'
 import "./style.css"
 
 class MobileMenu extends Component {
@@ -62,19 +64,11 @@ class MobileMenu extends Component {
                                 Events
                             </AnchorLink>
                         </li>
-                        <li>
-                            <AnchorLink
-                                href="#gallery"
-                                onClick={this.menuHandler}
-                            >
-                                Gallery
-                            </AnchorLink>
-                        </li>
                     </ul>
                 </div>
 
                 <div className="show-menu" onClick={this.menuHandler}>
-                    <i className="fa fa-bars" aria-hidden="true"></i>
+                    <FontAwesomeIcon size="lg" icon={faBars} style={{ color: "white" }} aria-hidden="true"/>
                 </div>
             </div>
         )
