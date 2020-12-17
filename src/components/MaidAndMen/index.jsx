@@ -7,7 +7,7 @@ import "./style.css"
 
 const MaidAndMen = () => {
     return (
-        <section id="maid-and-men">
+        <section id="bridesmaid-and-groomsman">
             <div className="maid-and-men-area section-padding">
                 <SectionTitle section={"Bridesmaid & Groomsman"} />
                 <div className="container">

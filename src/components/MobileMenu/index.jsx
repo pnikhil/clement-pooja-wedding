@@ -50,7 +50,7 @@ class MobileMenu extends Component {
                         </li>
                         <li>
                             <AnchorLink
-                                href="#wedding-party"
+                                href="#bridesmaid-and-groomsman"
                                 onClick={this.menuHandler}
                             >
                                 Wedding Party

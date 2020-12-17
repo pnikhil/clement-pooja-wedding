@@ -42,18 +42,13 @@ const Header = () => {
                                                 </AnchorLink>
                                             </li>
                                             <li>
-                                                <AnchorLink href="#wedding-party">
+                                                <AnchorLink href="#bridesmaid-and-groomsman">
                                                     Wedding Party
                                                 </AnchorLink>
                                             </li>
                                             <li>
                                                 <AnchorLink href="#events">
                                                     Events
-                                                </AnchorLink>
-                                            </li>
-                                            <li>
-                                                <AnchorLink href="#gallery">
-                                                    Gallery
                                                 </AnchorLink>
                                             </li>
                                         </ul>
