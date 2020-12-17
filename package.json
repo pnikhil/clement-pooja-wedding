@@ -1,7 +1,7 @@
 {
   "name": "pooja-clement-wedding",
   "version": "1.0.0",
-  "homepage": "http://pnikhil.github.io/clement-pooja-wedding",
+  "homepage": "https://pnikhil.github.io/clement-pooja-wedding",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
