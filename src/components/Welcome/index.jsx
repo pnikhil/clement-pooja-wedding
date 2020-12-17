@@ -1,6 +1,5 @@
 import React from "react"
 import AnchorLink from "react-anchor-link-smooth-scroll"
-import {WEDDING_DATE} from "../../constants/headings"
 import "./style.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faCalendarAlt} from '@fortawesome/free-solid-svg-icons'
