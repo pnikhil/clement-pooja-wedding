@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d68cf3f3c589d6de7a7c34738dc599f",
+    "revision": "437dced138e5b5ad9c2ef6d9d147c137",
     "url": "/clement-pooja-wedding/index.html"
   },
   {
-    "revision": "c325c00182ee775958e2",
+    "revision": "c05ddcc469c3cf474bb8",
     "url": "/clement-pooja-wedding/static/css/2.9137866d.chunk.css"
   },
   {
-    "revision": "bb26b12684d4c6b49748",
+    "revision": "c8f64d2196e689144315",
     "url": "/clement-pooja-wedding/static/css/main.bf6f9f7f.chunk.css"
   },
   {
-    "revision": "c325c00182ee775958e2",
-    "url": "/clement-pooja-wedding/static/js/2.4e54428d.chunk.js"
+    "revision": "c05ddcc469c3cf474bb8",
+    "url": "/clement-pooja-wedding/static/js/2.56c56728.chunk.js"
   },
   {
-    "revision": "bb26b12684d4c6b49748",
-    "url": "/clement-pooja-wedding/static/js/main.ee972252.chunk.js"
+    "revision": "c8f64d2196e689144315",
+    "url": "/clement-pooja-wedding/static/js/main.698d3727.chunk.js"
   },
   {
     "revision": "8e3ef6fb6665f23bf706",
