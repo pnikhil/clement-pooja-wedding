@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "http://pnikhil.github.io/clement-pooja-wedding/precache-manifest.52f5ff89ca440916b5f7d118a5a28e14.js"
+  "https://pnikhil.github.io/clement-pooja-wedding/precache-manifest.61178fbeb8758ba4a60d9fdea04aeb49.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("http://pnikhil.github.io/clement-pooja-wedding/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://pnikhil.github.io/clement-pooja-wedding/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
