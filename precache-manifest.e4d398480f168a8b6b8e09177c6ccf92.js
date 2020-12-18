@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c95dd9537875935e283cebef028b1090",
+    "revision": "7f3a705dca4e9dd5d7e90728db58983e",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/css/2.b2e566e1.chunk.css"
   },
   {
-    "revision": "ff2d7186a403950c966d",
+    "revision": "674cca19e9d5f521b6e7",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/css/main.f80fdd47.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/js/2.8d17987f.chunk.js"
   },
   {
-    "revision": "ff2d7186a403950c966d",
-    "url": "https://pnikhil.github.io/clement-pooja-wedding/static/js/main.1cf8823c.chunk.js"
+    "revision": "674cca19e9d5f521b6e7",
+    "url": "https://pnikhil.github.io/clement-pooja-wedding/static/js/main.b5ed26d7.chunk.js"
   },
   {
     "revision": "e6bc77fdf56a3d2f8ec3",
