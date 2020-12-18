@@ -6,6 +6,8 @@ const WEDDING_DATE_TIME = 'January 02, 2021 15:30:00';
 const PARTY_DATE = 'January 02, 2021';
 const PARTY_DATE_FULL = 'Saturday, January 02, 2021 at 7:00 PM';
 const TITLE = "Pooja & Clement's Wedding";
+export const FIRST_DATE = 'December 27, 2016';
+export const ENGAGEMENT_DATE = 'October 03, 2020';
 
 export {
   NAME_FULL,

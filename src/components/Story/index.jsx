@@ -4,6 +4,7 @@ import story1 from "../../images/story/meeting.jpg"
 import story2 from "../../images/story/dating.jpg"
 import story3 from "../../images/story/enagement.jpg"
 import "./style.css"
+import {FIRST_DATE, ENGAGEMENT_DATE} from "../../constants/headings"
 
 const Story = () => {
     return (
@@ -28,7 +29,7 @@ const Story = () => {
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="story-text right-align-text">
                                 <h3>Our First Date</h3>
-                                <span className="date">December 27, 2016</span>
+                                <span className="date">{FIRST_DATE}</span>
                                 <p>
                                     First Date was on 27th December 2016 at Garuda Mall, M.G Road Bangalore. We had gone to watch our first sci-fi movie together called “ALIVE”. I remember us being a little scared on the frightening scenes and Pooja trying to portray a strong persona while she was scared beyond wits. We then proceeded to Plan B – a pub right across the mall where we spoke on length about our likes, dislikes and in general about each other. Since, I was on a short leave, I did not have any time left and began our courtship.
                                 </p>
@@ -47,7 +48,7 @@ const Story = () => {
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="story-text left-align-text">
                                 <h3>Our Engagement</h3>
-                                <span className="date">October 2, 2020</span>
+                                <span className="date">{ENGAGEMENT_DATE}</span>
                                 <p>
                                     Filled with fun, frolic and lot of photos. Exchange of rings, forever locking the two of us in a knot. No more freedoms, no more crushes. Just Pooja & Clement. What stood out though, was people enjoying the part even though it was a small gathering. Drinks & Food served right, just bring the life back to an event, and that is what happened. After a day filled with formalities, the party gained colour in the evening. A big thanks to the rain gods for staying away.
                                 </p>
