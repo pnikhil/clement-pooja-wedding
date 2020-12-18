@@ -11,11 +11,10 @@ const App = () => {
           <HashRouter>
               <Router>
                   <Home />
-                  <Switch>
-                      <Route exact path="/" component={Home} />
-                      <Route path="/home" component={Home} />
-                      <Route component={() => (<div>404 Not found</div>)} />
-                  </Switch>
+                  {/*<Switch>*/}
+                  {/*    <Route exact path="/" component={Home} />*/}
+                  {/*    <Route path="/home" component={Home} />*/}
+                  {/*</Switch>*/}
                   <Footer />
                   <Scrollbar />
               </Router>
