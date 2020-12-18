@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe950a44113321491243dc9f7236dc15",
+    "revision": "fc1932872e15d34de53832be03f362e7",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/css/2.b2e566e1.chunk.css"
   },
   {
-    "revision": "a0a033f9f89367674621",
-    "url": "https://pnikhil.github.io/clement-pooja-wedding/static/css/main.f80fdd47.chunk.css"
+    "revision": "44f8e1b1a3f4e872c7f0",
+    "url": "https://pnikhil.github.io/clement-pooja-wedding/static/css/main.528aa730.chunk.css"
   },
   {
     "revision": "a84a4eb1977ea7a7fec7",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/js/2.00101b3e.chunk.js"
   },
   {
-    "revision": "a0a033f9f89367674621",
+    "revision": "44f8e1b1a3f4e872c7f0",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/js/main.f8dccbe8.chunk.js"
   },
   {
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0dc18c330dec2703d59b2434f8677ece",
     "url": "https://pnikhil.github.io/clement-pooja-wedding/static/media/engagement-2.0dc18c33.jpg"
+  },
+  {
+    "revision": "b37169b975a3eaa14c46b51535aab7a9",
+    "url": "https://pnikhil.github.io/clement-pooja-wedding/static/media/engagement-3.b37169b9.jpg"
   },
   {
     "revision": "dcfae70e9d073b8042e30114a87a787b",
