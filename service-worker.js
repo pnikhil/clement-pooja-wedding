@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://pnikhil.github.io/clement-pooja-wedding/precache-manifest.54b42c2ac1d2ca0ef4cb98d9f98dc17a.js"
+  "https://pnikhil.github.io/clement-pooja-wedding/precache-manifest.19034baeda0b8e39220467ebcd0802b2.js"
 );
 
 self.addEventListener('message', (event) => {
