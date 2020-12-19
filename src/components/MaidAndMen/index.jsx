@@ -1,7 +1,7 @@
 import React from "react"
 import SectionTitle from "../SectionTitle"
 import maidOfHonor from "../../images/people/bridesmaid.jpg"
-import bestMan from "../../images/people/empty.jpg"
+import bestMan from "../../images/people/andrew.jpg"
 
 import "./style.css"
 
@@ -42,10 +42,9 @@ const MaidAndMen = () => {
                                             />
                                         </div>
                                         <div className="maid-and-men-content">
-                                            <h3>Coming Soon</h3>
+                                            <h3>Andrew Arthur Gonsalves</h3>
                                             <strong>Best Man</strong>
-                                            <p>
-
+                                            <p>He is is studying his Engineering in Electronics and Communication from Alva's College, Mangalore. He is a budding rapper, loves music and has his own YouTube Channel.
                                             </p>
                                         </div>
                                     </div>
