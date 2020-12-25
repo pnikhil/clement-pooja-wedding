@@ -1,5 +1,5 @@
 import React from "react"
-import {NAME_SHORT} from "../../constants/headings"
+import {NAME_SHORT, FOOTER_HEADING} from "../../constants/headings"
 import "./style.css"
 
 const Footer = () => {
@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="text">
                         <h2>{NAME_SHORT}</h2>
-                        <p>We can't wait to celebrate with you!</p>
+                        <p>{FOOTER_HEADING}</p>
                     </div>
                 </div>
             </div>

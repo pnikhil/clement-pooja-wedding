@@ -1,6 +1,6 @@
 import React from "react"
 import SectionTitle from "../SectionTitle"
-import {WEDDING_DATE_FULL, PARTY_DATE_FULL} from "../../constants/headings"
+import {WEDDING_DATE_FULL, PARTY_DATE_FULL} from "../../constants/dates"
 import event1 from "../../images/events/fatima.png"
 import event2 from "../../images/events/ballroom.png"
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'

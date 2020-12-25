@@ -4,7 +4,7 @@ import story1 from "../../images/story/meeting.jpg"
 import story2 from "../../images/story/dating.jpg"
 import story3 from "../../images/story/enagement.jpg"
 import "./style.css"
-import {FIRST_DATE, ENGAGEMENT_DATE} from "../../constants/headings"
+import {FIRST_DATE, ENGAGEMENT_DATE} from "../../constants/dates"
 
 const Story = () => {
     return (

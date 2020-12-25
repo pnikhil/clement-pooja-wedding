@@ -1,7 +1,7 @@
 import React, {Component} from "react"
 import Slider from "react-slick"
 import {Animated} from "react-animated-css"
-import {WEDDING_DATE} from "../../constants/headings"
+import {WEDDING_DATE} from "../../constants/dates"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import "./style.css"

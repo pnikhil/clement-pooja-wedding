@@ -1,6 +1,6 @@
 import React from "react"
 import CountDown from "reactjs-countdown"
-import {WEDDING_DATE_TIME} from "../../constants/headings"
+import {WEDDING_DATE_TIME} from "../../constants/dates"
 import "./style.css"
 
 const CountdownWidget = () => {

@@ -8,13 +8,13 @@ import Events from "../../components/Events"
 import Header from "../../components/Header"
 import MobileMenu from "../../components/MobileMenu"
 import CountdownWidget from "../../components/CountdownWidget"
-import {TITLE} from "../../constants/headings";
+import {PAGE_TITLE} from "../../constants/headings";
 
 
 const Home = () => {
     return (
         useEffect(() => {
-            document.title = TITLE
+            document.title = PAGE_TITLE
         }, []),
 
             <div>
